@@ -50,6 +50,7 @@ html {
   background-color: yellow;
   width: 100%;
   text-align: center;
+  padding: 5% 0;
 }
 
 .is-chosen:link,
